@@ -1,0 +1,50 @@
+.bold_blue{
+font-weight: bold; color: blue;
+}
+
+.nightMode .bold_blue{
+font-weight: bold; color: blue;
+}
+
+.bold_red{
+font-weight: bold; color: #aa0000;
+}
+
+.nightMode .bold_red{
+font-weight: bold; color: #aa0000;
+}
+
+.bold_green{
+font-weight: bold;
+color: green;
+}
+
+.nightMode .bold_green{
+font-weight: bold;
+color: green;
+}
+
+.orange{
+font-weight: bold; color: gray;
+}
+
+.nightMode .orange{
+font-weight: bold; color: gray;
+}
+
+.green{
+color: #00aa00;
+}
+
+.nightMode .green{
+color: #90EE90;
+}
+
+.blue{
+color:#0096FF;
+}
+
+.nightMode .blue{
+color:#7DF9FF;
+}
+
